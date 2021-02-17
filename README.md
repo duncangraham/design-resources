@@ -29,6 +29,8 @@ Know a resource that isn't listed below? Feel free to create a new [pull request
 ## Blog
 [How to find new grad roles](https://medium.com/@tkkong/how-to-find-new-grad-product-design-roles-20dfeb13626d)
 
+
+
 # The Job Search
 
 ## Portfolios 
@@ -46,6 +48,8 @@ https://designthings.fun/Design-portfolios-74d6429649d04a62807d0fca0421d1ff](htt
 [How to get a design job](https://docs.google.com/presentation/d/1yaI5Y_jjd7Cl-VZNfBqKBCqxYKk0SasZBbw1DTUffRg/mobilepresent?slide=id.p)
 [http://cofolios.com/](http://cofolios.com/)
 [https://uxdesign.cc/how-to-prepare-for-your-facebook-product-design-interview-f80ab9e8f6fb](https://uxdesign.cc/how-to-prepare-for-your-facebook-product-design-interview-f80ab9e8f6fb)
+
+
 
 # Media
 
@@ -74,6 +78,7 @@ https://designthings.fun/Design-portfolios-74d6429649d04a62807d0fca0421d1ff](htt
 [A great example of how to tell a story of your work](https://twitter.com/tarngerine/status/1108038565705842688)
 
 
+
 # Support
 
 ## Mentorship
@@ -93,9 +98,12 @@ https://www.linkedin.com/posts/pincott_bluemonday-uxui-uxdesign-activity-6756734
 [https://twitter.com/Design_Guild](https://twitter.com/Design_Guild)
 [Design Buddies](https://linktr.ee/design.buddies)
 
-# Specifics
+
+
+# The Nitty Gritty
 
 ## Design Systems
+[Awesome Design Systems](https://github.com/alexpate/awesome-design-systems/blob/master/README.md)
 
 ## Management
 
