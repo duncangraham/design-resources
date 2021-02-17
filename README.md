@@ -29,7 +29,7 @@ Know a resource that isn't listed below? Feel free to create a new [pull request
 ## Blog
 [How to find new grad roles](https://medium.com/@tkkong/how-to-find-new-grad-product-design-roles-20dfeb13626d)
 
-# Job Search
+# The Job Search
 
 ## Portfolios 
 https://designthings.fun/Design-portfolios-74d6429649d04a62807d0fca0421d1ff](https://designthings.fun/Design-portfolios-74d6429649d04a62807d0fca0421d1ff)
@@ -92,6 +92,14 @@ https://www.linkedin.com/posts/pincott_bluemonday-uxui-uxdesign-activity-6756734
 [https://twitter.com/Designsocialclb](https://twitter.com/Designsocialclb)
 [https://twitter.com/Design_Guild](https://twitter.com/Design_Guild)
 [Design Buddies](https://linktr.ee/design.buddies)
+
+# Specifics
+
+## Design Systems
+
+## Management
+
+## ???
 
 ----
 
