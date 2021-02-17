@@ -2,9 +2,11 @@
 
 ![Contributions Welcome](https://img.shields.io/badge/Contributions-welcome-blue.svg)
 
-Know a resource that isn't listed below? Feel free to create a new [pull request](https://github.com/duncangraham/design-resources/pulls).
+Welcome! I hope you find what you're looking for here. Let's lift one another up 🙌
 
-> Welcome! I hope you find what you're looking for here. If something has been particularly helpful to you, please make a PR! Let's lift one another up 🙌
+Know a resource that isn't listed below? Find something that's out of date or low-value? Feel free to create a new [pull request](https://github.com/duncangraham/design-resources/pulls).
+
+---
 
 # The Early Days
 
