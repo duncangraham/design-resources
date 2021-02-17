@@ -31,7 +31,7 @@ Know a resource that isn't listed below? Find something that's out of date or lo
 ## Blogs
 - [How to find new grad roles](https://medium.com/@tkkong/how-to-find-new-grad-product-design-roles-20dfeb13626d)
 
-
+--
 
 # The Job Search
 
@@ -53,7 +53,7 @@ Know a resource that isn't listed below? Find something that's out of date or lo
 - [http://cofolios.com/](http://cofolios.com/)
 - [https://uxdesign.cc/how-to-prepare-for-your-facebook-product-design-interview-f80ab9e8f6fb](https://uxdesign.cc/how-to-prepare-for-your-facebook-product-design-interview-f80ab9e8f6fb)
 
-
+--
 
 # Media
 
@@ -80,7 +80,7 @@ Know a resource that isn't listed below? Find something that's out of date or lo
 ## Twitter
 - [A great example of how to tell a story of your work](https://twitter.com/tarngerine/status/1108038565705842688)
 
-
+--
 
 # Support
 
@@ -101,7 +101,7 @@ Know a resource that isn't listed below? Find something that's out of date or lo
 - [https://twitter.com/Design_Guild](https://twitter.com/Design_Guild)
 - [Design Buddies](https://linktr.ee/design.buddies)
 
-
+--
 
 # The Nitty Gritty
 
