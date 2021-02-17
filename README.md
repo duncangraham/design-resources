@@ -18,20 +18,16 @@ Know a resource that isn't listed below? Feel free to create a new [pull request
 - [Rethink](https://www.rethinkhq.com/)
 
 ## Internships
-[https://interns.design/](https://interns.design/)
-
-[Paid Internships in NYC](https://payinterns.nyc/)
+- [https://interns.design/](https://interns.design/)
+- [Paid Internships in NYC](https://payinterns.nyc/)
 
 ## Fellowship programs
+- [UX Collective: a program to help you break into UX design](https://www.designcollective.io/](https://www.designcollective.io/)) 
+- [Design Collective](https://www.designcollective.io/)
+- [Moringa Fellowship](https://www.moringafellowship.com/) (TBD if this continues- it may be winding down)
 
-[UX Collective: a program to help you break into UX design](https://www.designcollective.io/](https://www.designcollective.io/)) 
-
-[https://www.designcollective.io/](https://www.designcollective.io/)
-
-[Moringa Fellowship](https://www.moringafellowship.com/) (TBD if this continues- it may be winding down)
-
-## Blog
-[How to find new grad roles](https://medium.com/@tkkong/how-to-find-new-grad-product-design-roles-20dfeb13626d)
+## Blogs
+- [How to find new grad roles](https://medium.com/@tkkong/how-to-find-new-grad-product-design-roles-20dfeb13626d)
 
 
 
@@ -60,19 +56,18 @@ Know a resource that isn't listed below? Feel free to create a new [pull request
 # Media
 
 ## Books
-[Land your Dream Design Job](https://www.holloway.com/b/land-your-dream-design-job)
+- [Land your Dream Design Job](https://www.holloway.com/b/land-your-dream-design-job)
 
 ## Blogs
-[Method in Madness - Research](https://dovetailapp.com/blog/)
-[Spotify design blog](https://spotify.design/)
-[RefactorUI](https://refactoringui.com/)
+- [Method in Madness - Research](https://dovetailapp.com/blog/)
+- [Spotify design blog](https://spotify.design/)
+- [RefactorUI](https://refactoringui.com/)
 - I know there are many more! Please help me add them!
 
 ## Youtube Channels
 
 ## Instagram
 - please help me add stuff here! I know there are amazing content creators I'm missing
-
 
 ## TikTok
 - please help me add stuff here! I know there are amazing content creators I'm missing
@@ -81,35 +76,35 @@ Know a resource that isn't listed below? Feel free to create a new [pull request
 - please help me add stuff here! I know there are amazing content creators I'm missing
 
 ## Twitter
-[A great example of how to tell a story of your work](https://twitter.com/tarngerine/status/1108038565705842688)
+- [A great example of how to tell a story of your work](https://twitter.com/tarngerine/status/1108038565705842688)
 
 
 
 # Support
 
 ## Mentorship
-[https://www.adplist.com/](https://www.adplist.com/)
+- [https://www.adplist.com/](https://www.adplist.com/)
 
 ## Coaching
-[https://www.paolamariselli.com/coaching](https://www.paolamariselli.com/coaching)
-[https://www.designdept.co/coaching](https://www.designdept.co/coaching)
-[https://jessejamesgarrett.com/](https://jessejamesgarrett.com/)
-https://www.linkedin.com/posts/pincott_bluemonday-uxui-uxdesign-activity-6756734069251354624-ciJl/
+- [https://www.paolamariselli.com/coaching](https://www.paolamariselli.com/coaching)
+- [https://www.designdept.co/coaching](https://www.designdept.co/coaching)
+- [https://jessejamesgarrett.com/](https://jessejamesgarrett.com/)
+- https://www.linkedin.com/posts/pincott_bluemonday-uxui-uxdesign-activity-6756734069251354624-ciJl/
 
 ## Design Critiques
-[https://mona.so/charles](https://mona.so/charles)
+- [https://mona.so/charles](https://mona.so/charles)
 
 ## Communities
-[https://twitter.com/Designsocialclb](https://twitter.com/Designsocialclb)
-[https://twitter.com/Design_Guild](https://twitter.com/Design_Guild)
-[Design Buddies](https://linktr.ee/design.buddies)
+- [https://twitter.com/Designsocialclb](https://twitter.com/Designsocialclb)
+- [https://twitter.com/Design_Guild](https://twitter.com/Design_Guild)
+- [Design Buddies](https://linktr.ee/design.buddies)
 
 
 
 # The Nitty Gritty
 
 ## Design Systems
-[Awesome Design Systems](https://github.com/alexpate/awesome-design-systems/blob/master/README.md)
+- [Awesome Design Systems](https://github.com/alexpate/awesome-design-systems/blob/master/README.md)
 
 ## Management
 
@@ -118,6 +113,6 @@ https://www.linkedin.com/posts/pincott_bluemonday-uxui-uxdesign-activity-6756734
 ----
 
 ## Other Resource Aggregations
-[Design Tools](https://www.notion.so/Design-Tools-a616268173e54759acb691261580a230)
-[Design Resources](https://www.designresourc.es/)
-[Figma Templates](https://www.figma.com/templates/)
+- [Design Tools](https://www.notion.so/Design-Tools-a616268173e54759acb691261580a230)
+- [Design Resources](https://www.designresourc.es/)
+- [Figma Templates](https://www.figma.com/templates/)
