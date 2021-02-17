@@ -9,21 +9,25 @@ Know a resource that isn't listed below? Feel free to create a new [pull request
 # The Early Days
 
 ## Starter Kits
-[Product Design Starter Kit](https://docs.google.com/document/d/1J8D7u5ZRjbmkIAg3HfnxsgUQCg-VzVd2nbPBW3-Bx7E/edit)
-[Lambda School's Design Kit](https://designthings.fun/)
+- [Product Design Starter Kit](https://docs.google.com/document/d/1J8D7u5ZRjbmkIAg3HfnxsgUQCg-VzVd2nbPBW3-Bx7E)
+- [Lambda School's Design Kit](https://designthings.fun/)
 
 ## Design Courses
-[https://shiftnudge.com/](https://shiftnudge.com/)
-[General Assembly UX Design Immersive](https://generalassemb.ly/education/user-experience-design-immersive/san-francisco)
-[https://www.rethinkhq.com/](https://www.rethinkhq.com/)
+- [https://shiftnudge.com/](https://shiftnudge.com/)
+- [General Assembly UX Design Immersive](https://generalassemb.ly/education/user-experience-design-immersive/san-francisco)
+- [Rethink](https://www.rethinkhq.com/)
 
 ## Internships
 [https://interns.design/](https://interns.design/)
+
 [Paid Internships in NYC](https://payinterns.nyc/)
 
 ## Fellowship programs
+
 [UX Collective: a program to help you break into UX design](https://www.designcollective.io/](https://www.designcollective.io/)) 
+
 [https://www.designcollective.io/](https://www.designcollective.io/)
+
 [Moringa Fellowship](https://www.moringafellowship.com/) (TBD if this continues- it may be winding down)
 
 ## Blog
@@ -33,21 +37,23 @@ Know a resource that isn't listed below? Feel free to create a new [pull request
 
 # The Job Search
 
+## General
+- [Resources for Job-Seekers](https://www.are.na/carly-ayres/resources-for-design-job-seekers)
+
 ## Portfolios 
-https://designthings.fun/Design-portfolios-74d6429649d04a62807d0fca0421d1ff](https://designthings.fun/Design-portfolios-74d6429649d04a62807d0fca0421d1ff)
-[https://www.bestfolios.com/home](https://www.bestfolios.com/home)
-[Figma case study presentation template](https://www.figma.com/community/file/892528949344124083)
-[https://www.casestudy.club/pro](https://www.casestudy.club/pro)
-[Product design portfolio outline](https://www.notion.so/Product-design-portfolio-outline-f4a4e908d9c949ebbbff5f1e6b6dbb74)
+- https://designthings.fun/Design-portfolios-74d6429649d04a62807d0fca0421d1ff](https://designthings.fun/Design-portfolios-74d6429649d04a62807d0fca0421d1ff)
+- [https://www.bestfolios.com/home](https://www.bestfolios.com/home)
+- [Figma case study presentation template](https://www.figma.com/community/file/892528949344124083)
+- [https://www.casestudy.club/pro](https://www.casestudy.club/pro)
 
 ## Resumes
-[Resume template](https://www.figma.com/community/file/890812593952625752)
+- [Resume template](https://www.figma.com/community/file/890812593952625752)
 
 ## Jobs
-[Land your dream job](https://medium.com/@danshilov/mastering-product-design-interviews-32a7804df89b)
-[How to get a design job](https://docs.google.com/presentation/d/1yaI5Y_jjd7Cl-VZNfBqKBCqxYKk0SasZBbw1DTUffRg/mobilepresent?slide=id.p)
-[http://cofolios.com/](http://cofolios.com/)
-[https://uxdesign.cc/how-to-prepare-for-your-facebook-product-design-interview-f80ab9e8f6fb](https://uxdesign.cc/how-to-prepare-for-your-facebook-product-design-interview-f80ab9e8f6fb)
+- [Land your dream job](https://medium.com/@danshilov/mastering-product-design-interviews-32a7804df89b)
+- [How to get a design job](https://docs.google.com/presentation/d/1yaI5Y_jjd7Cl-VZNfBqKBCqxYKk0SasZBbw1DTUffRg/mobilepresent?slide=id.p)
+- [http://cofolios.com/](http://cofolios.com/)
+- [https://uxdesign.cc/how-to-prepare-for-your-facebook-product-design-interview-f80ab9e8f6fb](https://uxdesign.cc/how-to-prepare-for-your-facebook-product-design-interview-f80ab9e8f6fb)
 
 
 
