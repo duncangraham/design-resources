@@ -114,6 +114,13 @@ Know a resource that isn't listed below? Find something that's out of date or lo
 
 ---
 
+# Management
+
+## Recruiting
+- [Startup Hiring](https://www.notion.so/Startup-Hiring-101-A-Founder-s-Guide-946dad6dd9fd433abdd12338a83e931f) 
+
+---
+
 ## Other Resource Aggregations
 - [Design Tools](https://www.notion.so/Design-Tools-a616268173e54759acb691261580a230)
 - [Design Resources](https://www.designresourc.es/)
