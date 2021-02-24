@@ -64,6 +64,7 @@ Know a resource that isn't listed below? Find something that's out of date or lo
 - [Method in Madness - Research](https://dovetailapp.com/blog/)
 - [Spotify design blog](https://spotify.design/)
 - [RefactorUI](https://refactoringui.com/)
+- [Lovers Magazine](https://www.loversmagazine.com/)
 - I know there are many more! Please help me add them!
 
 ## Youtube Channels
