@@ -59,6 +59,8 @@ Know a resource that isn't listed below? Find something that's out of date or lo
 
 ## Books
 - [Land your Dream Design Job](https://www.holloway.com/b/land-your-dream-design-job)
+- [Just Enough Research](https://abookapart.com/products/just-enough-research)
+- [Microcopy](https://www.microcopybook.com/)
 
 ## Blogs
 - [Method in Madness - Research](https://dovetailapp.com/blog/)
