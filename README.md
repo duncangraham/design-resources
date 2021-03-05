@@ -32,7 +32,7 @@ Know a resource that isn't listed below? Find something that's out of date or lo
 - [How to find new grad roles](https://medium.com/@tkkong/how-to-find-new-grad-product-design-roles-20dfeb13626d)
 
 ## First Job
-- [Get your first product design job](https://askplaybook.com/collection/get-your-first-product-design-job)
+- [Playbook: Get your first product design job](https://askplaybook.com/collection/get-your-first-product-design-job)
 
 
 ---
@@ -120,6 +120,7 @@ Know a resource that isn't listed below? Find something that's out of date or lo
 - [Awesome Design Systems](https://github.com/alexpate/awesome-design-systems/blob/master/README.md)
 - [How I create Design systems from scratch](https://www.youtube.com/watch?v=-KykDzD5Blo)
 - [The key lessons I learned creating a popular design system](https://medium.com/@MattBond21/the-key-lessons-i-learned-creating-a-popular-design-system-d078c817b4dd)
+- [Playbook: Build a design system](https://askplaybook.com/collection/build-a-design-system)
 
 
 ---
@@ -129,6 +130,7 @@ Know a resource that isn't listed below? Find something that's out of date or lo
 ## General
 - [Joel Califa on his experience leading Product Design at Digital Ocean](http://joelcalifa.com/work/digitalocean-design-leadership/)
 - [Design Leader meetings](https://www.invisionapp.com/inside-design/design-leader-meetings/)
+- [Playbook: Grow as a design manager](https://askplaybook.com/collection/grow-as-a-design-manager)
 
 ---
 
