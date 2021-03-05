@@ -31,6 +31,10 @@ Know a resource that isn't listed below? Find something that's out of date or lo
 ## Blogs
 - [How to find new grad roles](https://medium.com/@tkkong/how-to-find-new-grad-product-design-roles-20dfeb13626d)
 
+## First Job
+- [Get your first product design job](https://askplaybook.com/collection/get-your-first-product-design-job)
+
+
 ---
 
 # The Job Search
@@ -106,24 +110,29 @@ Know a resource that isn't listed below? Find something that's out of date or lo
 
 ---
 
-# The Nitty Gritty
-
 ## Accessibility
 - [Contrast: A macOS app for quick access to WCAG color contrast ratios](https://usecontrast.com/)
 - [A 4-step process for testing the accessibility of your designs](https://ux.shopify.com/a-4-step-process-for-testing-the-accessibility-of-your-designs-17bc95bceafe)
 
-## Design Systems
+---
+
+# Design Systems
 - [Awesome Design Systems](https://github.com/alexpate/awesome-design-systems/blob/master/README.md)
+- [How I create Design systems from scratch](https://www.youtube.com/watch?v=-KykDzD5Blo)
+- [The key lessons I learned creating a popular design system](https://medium.com/@MattBond21/the-key-lessons-i-learned-creating-a-popular-design-system-d078c817b4dd)
 
-## Management
-
-## ???
 
 ---
 
-# Management
+# Leadership
 
-## Recruiting
+## General
+- [Joel Califa on his experience leading Product Design at Digital Ocean](http://joelcalifa.com/work/digitalocean-design-leadership/)
+- [Design Leader meetings](https://www.invisionapp.com/inside-design/design-leader-meetings/)
+
+---
+
+# Recruiting
 - [Startup Hiring](https://www.notion.so/Startup-Hiring-101-A-Founder-s-Guide-946dad6dd9fd433abdd12338a83e931f) 
 
 ---
