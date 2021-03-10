@@ -62,6 +62,7 @@ Know a resource that isn't listed below? Find something that's out of date or lo
 # Media
 
 ## Books
+- [Design books by Womxn & People of Color](https://www.notion.so/Design-Books-by-Womxn-People-of-Color-efaffa5233cc44a8b3bebb2d0a2b038f) 
 - [Land your Dream Design Job](https://www.holloway.com/b/land-your-dream-design-job)
 - [Just Enough Research](https://abookapart.com/products/just-enough-research)
 - [Microcopy](https://www.microcopybook.com/)
