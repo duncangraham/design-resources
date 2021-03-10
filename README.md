@@ -78,6 +78,7 @@ Know a resource that isn't listed below? Find something that's out of date or lo
 - I know there are many more! Please help me add them!
 
 ## Youtube Channels
+- [femke.design](https://www.youtube.com/channel/UCWUGGwfTfJ0-2jUS3dZqOJA)
 
 ## Instagram
 - please help me add stuff here! I know there are amazing content creators I'm missing
