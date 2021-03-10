@@ -51,6 +51,9 @@ Know a resource that isn't listed below? Find something that's out of date or lo
 ## Resumes
 - [Resume template](https://www.figma.com/community/file/890812593952625752)
 
+## Interviewing
+- [Portfolio review debrief](https://twitter.com/kylietimpani/status/1369525684402462725)
+
 ## Jobs
 - [Land your dream job](https://medium.com/@danshilov/mastering-product-design-interviews-32a7804df89b)
 - [How to get a design job](https://docs.google.com/presentation/d/1yaI5Y_jjd7Cl-VZNfBqKBCqxYKk0SasZBbw1DTUffRg/mobilepresent?slide=id.p)
