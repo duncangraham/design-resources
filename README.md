@@ -8,7 +8,7 @@ Know a resource that isn't listed below? Find something that's out of date or lo
 
 ---
 
-# The Early Days
+# Getting Started
 
 ## Starter Kits
 - [Product Design Starter Kit](https://docs.google.com/document/d/1J8D7u5ZRjbmkIAg3HfnxsgUQCg-VzVd2nbPBW3-Bx7E)
@@ -18,6 +18,7 @@ Know a resource that isn't listed below? Find something that's out of date or lo
 - [https://shiftnudge.com/](https://shiftnudge.com/)
 - [General Assembly UX Design Immersive](https://generalassemb.ly/education/user-experience-design-immersive/san-francisco)
 - [Rethink](https://www.rethinkhq.com/)
+- [Google UX Design Professional Certificate](https://www.coursera.org/professional-certificates/google-ux-design)
 
 ## Internships
 - [https://interns.design/](https://interns.design/)
