@@ -19,6 +19,7 @@ Know a resource that isn't listed below? Find something that's out of date or lo
 - [General Assembly UX Design Immersive](https://generalassemb.ly/education/user-experience-design-immersive/san-francisco)
 - [Rethink](https://www.rethinkhq.com/)
 - [Google UX Design Professional Certificate](https://www.coursera.org/professional-certificates/google-ux-design)
+- [Huge XD School](https://schools.hugeinc.com/)
 
 ## Internships
 - [https://interns.design/](https://interns.design/)
