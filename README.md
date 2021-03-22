@@ -34,6 +34,7 @@ Know a resource that isn't listed below? Find something that's out of date or lo
 ## Blogs
 - [How to find new grad roles](https://medium.com/@tkkong/how-to-find-new-grad-product-design-roles-20dfeb13626d)
 - [Pillars of Digital Product Design](https://slack.design/articles/pillars-of-digital-product-design/?ref=heydesigner)
+- [Learn UI](https://learnui.design/blog/)
 
 ## First Job
 - [Playbook: Get your first product design job](https://askplaybook.com/collection/get-your-first-product-design-job)
