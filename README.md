@@ -8,7 +8,7 @@ Know a resource that isn't listed below? Find something that's out of date or lo
 
 ---
 
-# Getting Started
+# Foundations
 
 ## Starter Kits
 - [Product Design Starter Kit](https://docs.google.com/document/d/1J8D7u5ZRjbmkIAg3HfnxsgUQCg-VzVd2nbPBW3-Bx7E)
@@ -32,6 +32,7 @@ Know a resource that isn't listed below? Find something that's out of date or lo
 
 ## Blogs
 - [How to find new grad roles](https://medium.com/@tkkong/how-to-find-new-grad-product-design-roles-20dfeb13626d)
+- [Pillars of Digital Product Design](https://slack.design/articles/pillars-of-digital-product-design/?ref=heydesigner)
 
 ## First Job
 - [Playbook: Get your first product design job](https://askplaybook.com/collection/get-your-first-product-design-job)
