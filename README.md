@@ -20,6 +20,7 @@ Know a resource that isn't listed below? Find something that's out of date or lo
 - [Rethink](https://www.rethinkhq.com/)
 - [Google UX Design Professional Certificate](https://www.coursera.org/professional-certificates/google-ux-design)
 - [Huge XD School](https://schools.hugeinc.com/)
+- [Learn UI/UX design](http://erikdkennedy.com/#teaching)
 
 ## Internships
 - [https://interns.design/](https://interns.design/)
