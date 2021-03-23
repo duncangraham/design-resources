@@ -142,6 +142,9 @@ Know a resource that isn't listed below? Find something that's out of date or lo
 - [Design Leader meetings](https://www.invisionapp.com/inside-design/design-leader-meetings/)
 - [Playbook: Grow as a design manager](https://askplaybook.com/collection/grow-as-a-design-manager)
 
+## Mentoring
+- [ADPList Mentorship U](https://www.notion.so/ADPList-Mentor-University-142c00ed152f4e9a9132de0ea73b7796)
+
 ---
 
 # Recruiting
