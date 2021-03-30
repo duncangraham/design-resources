@@ -153,6 +153,11 @@ Know a resource that isn't listed below? Find something that's out of date or lo
 
 ---
 
+# Tools
+- [Pattern Maker](https://www.magicpattern.design/)
+
+---
+
 ## Other Resource Aggregations
 - [Design Tools](https://www.notion.so/Design-Tools-a616268173e54759acb691261580a230)
 - [Design Resources](https://www.designresourc.es/)
