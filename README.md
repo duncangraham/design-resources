@@ -6,9 +6,14 @@ Welcome! I hope you find what you're looking for here. Let's lift one another up
 
 Know a resource that isn't listed below? Find something that's out of date or low-value? Feel free to create a new [pull request](https://github.com/duncangraham/design-resources/pulls).
 
+# Contents
+
+- [Foundations](#foundations)  
+
+
 ---
 
-# Foundations
+#Foundations
 
 ## Starter Kits
 - [Product Design Starter Kit](https://docs.google.com/document/d/1J8D7u5ZRjbmkIAg3HfnxsgUQCg-VzVd2nbPBW3-Bx7E)
@@ -155,6 +160,14 @@ Know a resource that isn't listed below? Find something that's out of date or lo
 
 # Tools
 - [Pattern Maker](https://www.magicpattern.design/)
+
+---
+
+# Freelancing
+
+## Legal
+- [Open Sourced Service Agreement](https://github.com/mds/sa)
+- 
 
 ---
 
