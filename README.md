@@ -10,13 +10,15 @@ Know a resource that isn't listed below? Find something that's out of date or lo
 
 1. [Foundations](#foundations) 
 2. [The Job Search](#the-job-search)
-3. [Media](#media) 
-4. [Support](#support) 
-5. [Accessibility](#accessibility) 
-6. [Design Systems](#design-systems) 
-7. [Leadership](#foundations) 
-8. [Recruiting](#recruiting) 
-9. [Freelancing](#freelancing)
+3. [Support](#support)
+5. [Research](#research) 
+6. [Accessibility](#accessibility) 
+7. [Design Systems](#design-systems) 
+8. [Leadership](#foundations) 
+9. [Recruiting](#recruiting) 
+10. [Freelancing](#freelancing)
+11. [Assorted Media](#assorted-media) 
+12. [More Resource Collections](#more-resource-collections)
 
 
 ---
@@ -80,38 +82,6 @@ Know a resource that isn't listed below? Find something that's out of date or lo
 
 ---
 
-# Media
-
-## Books
-- [Design books by Womxn & People of Color](https://www.notion.so/Design-Books-by-Womxn-People-of-Color-efaffa5233cc44a8b3bebb2d0a2b038f) 
-- [Land your Dream Design Job](https://www.holloway.com/b/land-your-dream-design-job)
-- [Just Enough Research](https://abookapart.com/products/just-enough-research)
-- [Microcopy](https://www.microcopybook.com/)
-
-## Blogs
-- [Method in Madness - Research](https://dovetailapp.com/blog/)
-- [Spotify design blog](https://spotify.design/)
-- [RefactorUI](https://refactoringui.com/)
-- [Lovers Magazine](https://www.loversmagazine.com/)
-- I know there are many more! Please help me add them!
-
-## Youtube Channels
-- [femke.design](https://www.youtube.com/channel/UCWUGGwfTfJ0-2jUS3dZqOJA)
-
-## Instagram
-- please help me add stuff here! I know there are amazing content creators I'm missing
-
-## TikTok
-- please help me add stuff here! I know there are amazing content creators I'm missing
-
-## TikTok
-- please help me add stuff here! I know there are amazing content creators I'm missing
-
-## Twitter
-- [A great example of how to tell a story of your work](https://twitter.com/tarngerine/status/1108038565705842688)
-
----
-
 # Support
 
 ## Mentorship
@@ -130,6 +100,16 @@ Know a resource that isn't listed below? Find something that's out of date or lo
 - [https://twitter.com/Designsocialclb](https://twitter.com/Designsocialclb)
 - [https://twitter.com/Design_Guild](https://twitter.com/Design_Guild)
 - [Design Buddies](https://linktr.ee/design.buddies)
+
+---
+
+# Research
+
+## Blogs
+- [Miro's Complete guide to UX research](https://miro.com/guides/ux-research/)
+
+## Books
+- [Just Enough Research](https://abookapart.com/products/just-enough-research)
 
 ---
 
@@ -179,7 +159,39 @@ Know a resource that isn't listed below? Find something that's out of date or lo
 
 ---
 
-## Other Resource Aggregations
+# Assorted Media
+
+## Books
+- [Design books by Womxn & People of Color](https://www.notion.so/Design-Books-by-Womxn-People-of-Color-efaffa5233cc44a8b3bebb2d0a2b038f) 
+- [Land your Dream Design Job](https://www.holloway.com/b/land-your-dream-design-job)
+- [Microcopy](https://www.microcopybook.com/)
+
+## Blogs
+- [Method in Madness - Research](https://dovetailapp.com/blog/)
+- [Spotify design blog](https://spotify.design/)
+- [RefactorUI](https://refactoringui.com/)
+- [Lovers Magazine](https://www.loversmagazine.com/)
+- I know there are many more! Please help me add them!
+
+## Youtube Channels
+- [femke.design](https://www.youtube.com/channel/UCWUGGwfTfJ0-2jUS3dZqOJA)
+
+## Instagram
+- please help me add stuff here! I know there are amazing content creators I'm missing
+
+## TikTok
+- please help me add stuff here! I know there are amazing content creators I'm missing
+
+## TikTok
+- please help me add stuff here! I know there are amazing content creators I'm missing
+
+## Twitter
+- [A great example of how to tell a story of your work](https://twitter.com/tarngerine/status/1108038565705842688)
+
+---
+
+# More Resource Collections
+
 - [Design Tools](https://www.notion.so/Design-Tools-a616268173e54759acb691261580a230)
 - [Design Resources](https://www.designresourc.es/)
 - [Figma Templates](https://www.figma.com/templates/)
