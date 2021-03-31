@@ -74,7 +74,11 @@ Know a resource that isn't listed below? Find something that's out of date or lo
 ## Interviewing
 - [Portfolio review debrief](https://twitter.com/kylietimpani/status/1369525684402462725)
 
-## Jobs
+## Salary info
+- [Open Repository of Design Salaries](https://salary.design/)
+- [Compensation exploration tool](https://www.opencomp.com/)
+
+## Assorted Links
 - [Land your dream job](https://medium.com/@danshilov/mastering-product-design-interviews-32a7804df89b)
 - [How to get a design job](https://docs.google.com/presentation/d/1yaI5Y_jjd7Cl-VZNfBqKBCqxYKk0SasZBbw1DTUffRg/mobilepresent?slide=id.p)
 - [http://cofolios.com/](http://cofolios.com/)
