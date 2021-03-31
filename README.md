@@ -74,6 +74,11 @@ Know a resource that isn't listed below? Find something that's out of date or lo
 ## Interviewing
 - [Portfolio review debrief](https://twitter.com/kylietimpani/status/1369525684402462725)
 
+## Negotiating
+- [Never Split the Difference](https://bookshop.org/books/never-split-the-difference-negotiating-as-if-your-life-depended-on-it/9780062407801). This book is the gold standard of modern negotiation. Learn it and it will pay for itself over and over.
+- [Never Split the Difference Cheat Sheet](https://www.famvestor.com/wp-content/uploads/2019/01/NeverSplitTheDifference-Negotiating-Techniques.pdf)
+- [Never Split the Difference MasterClass](https://www.masterclass.com/classes/chris-voss-teaches-the-art-of-negotiation)
+
 ## Salary info
 - [Open Repository of Design Salaries](https://salary.design/)
 - [Compensation exploration tool](https://www.opencomp.com/)
