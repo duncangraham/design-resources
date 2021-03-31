@@ -8,12 +8,12 @@ Know a resource that isn't listed below? Find something that's out of date or lo
 
 # Contents
 
-- [Foundations](#foundations)  
+1. [Foundations](#foundations)  
 
 
 ---
 
-#Foundations
+# Foundations
 
 ## Starter Kits
 - [Product Design Starter Kit](https://docs.google.com/document/d/1J8D7u5ZRjbmkIAg3HfnxsgUQCg-VzVd2nbPBW3-Bx7E)
