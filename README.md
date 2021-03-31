@@ -8,7 +8,15 @@ Know a resource that isn't listed below? Find something that's out of date or lo
 
 # Contents
 
-1. [Foundations](#foundations)  
+1. [Foundations](#foundations) 
+2. [The Job Search](#the-job-search)
+3. [Media](#media) 
+4. [Support](#support) 
+5. [Accessibility](#accessibility) 
+6. [Design Systems](#design-systems) 
+7. [Leadership](#foundations) 
+8. [Recruiting](#recruiting) 
+9. [Freelancing](#freelancing)
 
 
 ---
@@ -125,7 +133,7 @@ Know a resource that isn't listed below? Find something that's out of date or lo
 
 ---
 
-## Accessibility
+# Accessibility
 - [Contrast: A macOS app for quick access to WCAG color contrast ratios](https://usecontrast.com/)
 - [A 4-step process for testing the accessibility of your designs](https://ux.shopify.com/a-4-step-process-for-testing-the-accessibility-of-your-designs-17bc95bceafe)
 
