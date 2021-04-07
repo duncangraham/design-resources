@@ -61,6 +61,7 @@ Know a resource that isn't listed below? Find something that's out of date or lo
 
 ## General
 - [Resources for Job-Seekers](https://www.are.na/carly-ayres/resources-for-design-job-seekers)
+- [Joining a big company vs. a startup](https://twitter.com/ArielLopez__/status/1379422307861594114)
 
 ## Portfolios 
 - https://designthings.fun/Design-portfolios-74d6429649d04a62807d0fca0421d1ff](https://designthings.fun/Design-portfolios-74d6429649d04a62807d0fca0421d1ff)
