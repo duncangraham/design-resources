@@ -147,6 +147,7 @@ Know a resource that isn't listed below? Find something that's out of date or lo
 - [Joel Califa on his experience leading Product Design at Digital Ocean](http://joelcalifa.com/work/digitalocean-design-leadership/)
 - [Design Leader meetings](https://www.invisionapp.com/inside-design/design-leader-meetings/)
 - [Playbook: Grow as a design manager](https://askplaybook.com/collection/grow-as-a-design-manager)
+- [Making a team charter, A Miro Guide](https://miro.com/guides/team-charter/)
 
 ## Mentoring
 - [ADPlist](https://adplist.org/)
