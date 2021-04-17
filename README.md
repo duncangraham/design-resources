@@ -153,6 +153,9 @@ Know a resource that isn't listed below? Find something that's out of date or lo
 - [ADPlist](https://adplist.org/)
 - [ADPList Mentorship U](https://www.notion.so/ADPList-Mentor-University-142c00ed152f4e9a9132de0ea73b7796)
 
+## Development
+- [1:1s - a tweet thread by @hellojoie](https://twitter.com/hellojoie/status/1383059550081744902?s=10)
+
 ---
 
 # Recruiting
