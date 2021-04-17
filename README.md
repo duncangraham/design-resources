@@ -180,6 +180,7 @@ Know a resource that isn't listed below? Find something that's out of date or lo
 
 ## Books
 - [Design books by Womxn & People of Color](https://www.notion.so/Design-Books-by-Womxn-People-of-Color-efaffa5233cc44a8b3bebb2d0a2b038f) 
+- [Product Design for the Web](https://www.amazon.com/Product-Design-Web-Principles-Designing/dp/0321929039/ref=sr_1_1?s=books&ie=UTF8&qid=1410869082&sr=1-1&keywords=randy+hunt)
 - [Land your Dream Design Job](https://www.holloway.com/b/land-your-dream-design-job)
 - [Microcopy](https://www.microcopybook.com/)
 
