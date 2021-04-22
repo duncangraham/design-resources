@@ -80,6 +80,10 @@ Know a resource that isn't listed below? Find something that's out of date or lo
 - [Never Split the Difference Cheat Sheet](https://www.famvestor.com/wp-content/uploads/2019/01/NeverSplitTheDifference-Negotiating-Techniques.pdf)
 - [Never Split the Difference MasterClass](https://www.masterclass.com/classes/chris-voss-teaches-the-art-of-negotiation)
 
+## Equity
+- [Compound's Equity guide to fast growing companies](https://withcompound.com/r/equity-guide-to-fast-growing-companies)
+- [Holloway's Equity Compensation](https://www.holloway.com/g/equity-compensation)
+
 ## Salary info
 - [Open Repository of Design Salaries](https://salary.design/)
 - [Compensation exploration tool](https://www.opencomp.com/)
