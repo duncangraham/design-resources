@@ -145,13 +145,18 @@ Know a resource that isn't listed below? Find something that's out of date or lo
 
 ---
 
-# Leadership
+# Management & Leadership
 
 ## General
 - [Joel Califa on his experience leading Product Design at Digital Ocean](http://joelcalifa.com/work/digitalocean-design-leadership/)
 - [Design Leader meetings](https://www.invisionapp.com/inside-design/design-leader-meetings/)
 - [Playbook: Grow as a design manager](https://askplaybook.com/collection/grow-as-a-design-manager)
 - [Making a team charter, A Miro Guide](https://miro.com/guides/team-charter/)
+
+## Books
+- [The Managers Handbook](https://themanagershandbook.com/)
+- [The Making of a Manager](https://bookshop.org/books/the-making-of-a-manager-what-to-do-when-everyone-looks-to-you/9780735219564)
+- [Crucial Conversations](https://bookshop.org/books/crucial-conversations-tools-for-talking-when-stakes-are-high-second-edition-9780071771320/9780071771320)
 
 ## Mentoring
 - [ADPlist](https://adplist.org/)
