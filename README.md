@@ -156,6 +156,10 @@ Know a resource that isn't listed below? Find something that's out of date or lo
 - [Playbook: Grow as a design manager](https://askplaybook.com/collection/grow-as-a-design-manager)
 - [Making a team charter, A Miro Guide](https://miro.com/guides/team-charter/)
 
+
+## New Manager Resources
+- [New Manager Care Package](https://larahogan.me/blog/new-manager-care-package/)
+
 ## Books
 - [The Managers Handbook](https://themanagershandbook.com/)
 - [The Making of a Manager](https://bookshop.org/books/the-making-of-a-manager-what-to-do-when-everyone-looks-to-you/9780735219564)
