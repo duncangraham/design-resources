@@ -4,6 +4,8 @@
 
 Welcome! I hope you find what you're looking for here. Let's lift one another up 🙌
 
+Has this list helped you? If so I'd love to hear from you! You can email me at [duncan@moderntreasury.com](emailto:duncan@moderntreasury.com) or tweet at me [@duncangraham](twitter.com/duncangraham).
+
 Know a resource that isn't listed below? Find something that's out of date or low-value? Feel free to create a new [pull request](https://github.com/duncangraham/design-resources/pulls).
 
 # Contents
