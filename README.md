@@ -36,6 +36,7 @@ Know a resource that isn't listed below? Find something that's out of date or lo
 - [Google UX Design Professional Certificate](https://www.coursera.org/professional-certificates/google-ux-design)
 - [Huge XD School](https://schools.hugeinc.com/)
 - [Learn UI/UX design](http://erikdkennedy.com/#teaching)
+- [Design Career Jumpstart](https://www.designcareerjumpstart.com/)
 
 ## Internships
 - [https://interns.design/](https://interns.design/)
