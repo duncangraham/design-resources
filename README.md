@@ -67,6 +67,7 @@ Know a resource that isn't listed below? Find something that's out of date or lo
 - [Joining a big company vs. a startup](https://twitter.com/ArielLopez__/status/1379422307861594114)
 
 ## Portfolios 
+- [How to give a great product design portfolio presentation](https://overthought.ghost.io/how-to-give-a-great-product-design-portfolio-presentation/?ref=heydesigner)
 - https://designthings.fun/Design-portfolios-74d6429649d04a62807d0fca0421d1ff](https://designthings.fun/Design-portfolios-74d6429649d04a62807d0fca0421d1ff)
 - [https://www.bestfolios.com/home](https://www.bestfolios.com/home)
 - [Figma case study presentation template](https://www.figma.com/community/file/892528949344124083)
