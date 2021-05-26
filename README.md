@@ -89,6 +89,7 @@ Know a resource that isn't listed below? Find something that's out of date or lo
 ## Equity Compensation
 - [Compound's Equity guide to fast growing companies](https://withcompound.com/r/equity-guide-to-fast-growing-companies)
 - [Holloway's Equity Compensation](https://www.holloway.com/g/equity-compensation)
+- [Companies with extended equity windows](https://github.com/holman/extended-exercise-windows)
 
 ## Salary info
 - [Open Repository of Design Salaries](https://salary.design/)
