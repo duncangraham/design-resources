@@ -148,6 +148,7 @@ Know a resource that isn't listed below? Find something that's out of date or lo
 - [How I create Design systems from scratch](https://www.youtube.com/watch?v=-KykDzD5Blo)
 - [The key lessons I learned creating a popular design system](https://medium.com/@MattBond21/the-key-lessons-i-learned-creating-a-popular-design-system-d078c817b4dd)
 - [Playbook: Build a design system](https://askplaybook.com/collection/build-a-design-system)
+- [Leonardo: an open source contrast-based color generator](https://medium.com/@NateBaldwin/leonardo-an-open-source-contrast-based-color-generator-92d61b6521d2)
 - [Using Figma's Library Analytics](https://twitter.com/notchristos/status/1258368617785307142?s=10)
 
 
