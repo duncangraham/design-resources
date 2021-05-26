@@ -182,6 +182,7 @@ Know a resource that isn't listed below? Find something that's out of date or lo
 
 # Recruiting
 - [Startup Hiring](https://www.notion.so/Startup-Hiring-101-A-Founder-s-Guide-946dad6dd9fd433abdd12338a83e931f) 
+- [Behavioral Interview Questions](https://twitter.com/lilykonings/status/1395507400166166531?s=10)
 
 ---
 
