@@ -125,6 +125,7 @@ Know a resource that isn't listed below? Find something that's out of date or lo
 ---
 
 # Research
+- [UX Research Resource Collection](https://www.notion.so/UX-Research-Resources-ed85c9c9be654de9a040ce3bd70abf90)
 
 ## Blogs
 - [Miro's Complete guide to UX research](https://miro.com/guides/ux-research/)
