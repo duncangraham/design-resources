@@ -13,6 +13,7 @@ Know a resource that isn't listed below? Find something that's out of date or lo
 1. [Foundations](#foundations) 
 2. [The Job Search](#the-job-search)
 3. [Support](#support)
+4. [Workshops](#workshops)
 5. [Research](#research) 
 6. [Accessibility](#accessibility) 
 7. [Design Systems](#design-systems) 
@@ -22,6 +23,7 @@ Know a resource that isn't listed below? Find something that's out of date or lo
 11. [Assorted Media](#assorted-media) 
 12. [More Resource Collections](#more-resource-collections)
 
+https://uxtools.co/blog/33-activity-ideas-for-remote-ux-workshops/#zombie-cats
 
 ---
 
@@ -123,6 +125,12 @@ Know a resource that isn't listed below? Find something that's out of date or lo
 - [Design Buddies](https://linktr.ee/design.buddies)
 
 ---
+
+# Workshops
+- [33 Activities for Remote UX Workshops](https://uxtools.co/blog/33-activity-ideas-for-remote-ux-workshops/#zombie-cats)
+
+---
+
 
 # Research
 - [UX Research Resource Collection](https://www.notion.so/UX-Research-Resources-ed85c9c9be654de9a040ce3bd70abf90)
