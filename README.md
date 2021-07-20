@@ -187,6 +187,9 @@ https://uxtools.co/blog/33-activity-ideas-for-remote-ux-workshops/#zombie-cats
 ## Development
 - [1:1s - a tweet thread by @hellojoie](https://twitter.com/hellojoie/status/1383059550081744902?s=10)
 
+## Leveling
+- [Product designer job levels at Intercom](https://docs.google.com/document/d/1YloFi80QoXPk5-U9ga1Ivxojamy7dU4MsaUNnQs8Rig/edit)
+
 ---
 
 # Recruiting
