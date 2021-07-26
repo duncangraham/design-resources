@@ -67,6 +67,7 @@ https://uxtools.co/blog/33-activity-ideas-for-remote-ux-workshops/#zombie-cats
 ## General
 - [Resources for Job-Seekers](https://www.are.na/carly-ayres/resources-for-design-job-seekers)
 - [Joining a big company vs. a startup](https://twitter.com/ArielLopez__/status/1379422307861594114)
+- [Career Decisions](http://blog.eladgil.com/2015/03/career-decisions.html)
 
 ## Portfolios 
 - [How to give a great product design portfolio presentation](https://overthought.ghost.io/how-to-give-a-great-product-design-portfolio-presentation/?ref=heydesigner)
