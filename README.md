@@ -93,6 +93,7 @@ https://uxtools.co/blog/33-activity-ideas-for-remote-ux-workshops/#zombie-cats
 - [Compound's Equity guide to fast growing companies](https://withcompound.com/r/equity-guide-to-fast-growing-companies)
 - [Holloway's Equity Compensation](https://www.holloway.com/g/equity-compensation)
 - [Companies with extended equity windows](https://github.com/holman/extended-exercise-windows)
+- [Early employees should consider early exercise](https://catwu.substack.com/p/early-employees-should-consider-early)
 
 ## Salary info
 - [Open Repository of Design Salaries](https://salary.design/)
