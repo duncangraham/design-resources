@@ -95,6 +95,8 @@ https://uxtools.co/blog/33-activity-ideas-for-remote-ux-workshops/#zombie-cats
 - [Holloway's Equity Compensation](https://www.holloway.com/g/equity-compensation)
 - [Companies with extended equity windows](https://github.com/holman/extended-exercise-windows)
 - [Early employees should consider early exercise](https://catwu.substack.com/p/early-employees-should-consider-early)
+- [What I Wish I'd Known About Equity Before Joining A Unicorn](https://gist.github.com/yossorion/4965df74fd6da6cdc280ec57e83a202d)
+- [Understanding Startup Stock Options](https://medium.com/swlh/understanding-startup-stock-options-4bf9cc26089e)
 
 ## Salary info
 - [Open Repository of Design Salaries](https://salary.design/)
