@@ -21,7 +21,8 @@ Know a resource that isn't listed below? Find something that's out of date or lo
 9. [Recruiting](#recruiting) 
 10. [Freelancing](#freelancing)
 11. [Assorted Media](#assorted-media) 
-12. [More Resource Collections](#more-resource-collections)
+12. [Assets](#assets)
+13. [More Resource Collections](#more-resource-collections)
 
 https://uxtools.co/blog/33-activity-ideas-for-remote-ux-workshops/#zombie-cats
 
@@ -242,6 +243,14 @@ https://uxtools.co/blog/33-activity-ideas-for-remote-ux-workshops/#zombie-cats
 
 ## Twitter
 - [A great example of how to tell a story of your work](https://twitter.com/tarngerine/status/1108038565705842688)
+
+---
+
+# Assets
+
+## Marletplaces
+- [supply.family](https://supply.family/shop/)
+- [YouWorkForThem](https://www.youworkforthem.com/)
 
 ---
 
