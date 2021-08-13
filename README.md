@@ -112,6 +112,10 @@ https://uxtools.co/blog/33-activity-ideas-for-remote-ux-workshops/#zombie-cats
 
 # Support
 
+## Affinity Groups
+- [Go Within - The leadership community for womxn in design](https://gowithin.co/) 
+- [Queer Design Club](https://queerdesign.club/)
+
 ## Mentorship
 - [https://www.adplist.com/](https://www.adplist.com/)
 
