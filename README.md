@@ -238,11 +238,17 @@ https://uxtools.co/blog/33-activity-ideas-for-remote-ux-workshops/#zombie-cats
 - [Lovers Magazine](https://www.loversmagazine.com/)
 - I know there are many more! Please help me add them!
 
+## Newsletters
+- [Lily Konings](lilykonings.substack.com)
+- [The Looking Glass](https://lg.substack.com)
+
 ## Youtube Channels
 - [femke.design](https://www.youtube.com/channel/UCWUGGwfTfJ0-2jUS3dZqOJA)
+- [Chunbuns](https://www.youtube.com/c/chunbuns)
 
 ## Instagram
-- please help me add stuff here! I know there are amazing content creators I'm missing
+- [@femkedotdesign](https://www.instagram.com/femkedotdesign/)
+- [@zanderwhitehurst](https://www.instagram.com/zanderwhitehurst/)
 
 ## TikTok
 - please help me add stuff here! I know there are amazing content creators I'm missing
