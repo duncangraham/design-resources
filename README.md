@@ -97,6 +97,7 @@ https://uxtools.co/blog/33-activity-ideas-for-remote-ux-workshops/#zombie-cats
 - [Early employees should consider early exercise](https://catwu.substack.com/p/early-employees-should-consider-early)
 - [What I Wish I'd Known About Equity Before Joining A Unicorn](https://gist.github.com/yossorion/4965df74fd6da6cdc280ec57e83a202d)
 - [Understanding Startup Stock Options](https://medium.com/swlh/understanding-startup-stock-options-4bf9cc26089e)
+- [Fuck your 90 day exercise window](https://zachholman.com/posts/fuck-your-90-day-exercise-window/)
 
 ## Salary info
 - [Open Repository of Design Salaries](https://salary.design/)
