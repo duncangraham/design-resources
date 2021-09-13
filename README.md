@@ -235,6 +235,8 @@ https://uxtools.co/blog/33-activity-ideas-for-remote-ux-workshops/#zombie-cats
 - [Microcopy](https://www.microcopybook.com/)
 
 ## Blogs
+- [Airbnb Design](https://airbnb.design/)
+- [Plant Design](https://blog.plantapp.io/)
 - [Method in Madness - Research](https://dovetailapp.com/blog/)
 - [Spotify design blog](https://spotify.design/)
 - [RefactorUI](https://refactoringui.com/)
