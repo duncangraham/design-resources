@@ -246,6 +246,7 @@ https://uxtools.co/blog/33-activity-ideas-for-remote-ux-workshops/#zombie-cats
 - [The Looking Glass](https://lg.substack.com)
 
 ## Youtube Channels
+- [Figma](https://www.youtube.com/c/Figmadesign)
 - [femke.design](https://www.youtube.com/channel/UCWUGGwfTfJ0-2jUS3dZqOJA)
 - [Chunbuns](https://www.youtube.com/c/chunbuns)
 
