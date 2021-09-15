@@ -200,6 +200,7 @@ https://uxtools.co/blog/33-activity-ideas-for-remote-ux-workshops/#zombie-cats
 
 ## Leveling
 - [Product designer job levels at Intercom](https://docs.google.com/document/d/1YloFi80QoXPk5-U9ga1Ivxojamy7dU4MsaUNnQs8Rig/edit)
+- [Career progression framework](https://www.figma.com/community/file/1016976439136505144)
 
 ## Job Board for Design Leadership
 - [boooom](https://boooom.co/)
