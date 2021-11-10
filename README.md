@@ -173,6 +173,7 @@ https://uxtools.co/blog/33-activity-ideas-for-remote-ux-workshops/#zombie-cats
 - [Playbook: Build a design system](https://askplaybook.com/collection/build-a-design-system)
 - [Leonardo: an open source contrast-based color generator](https://medium.com/@NateBaldwin/leonardo-an-open-source-contrast-based-color-generator-92d61b6521d2)
 - [Using Figma's Library Analytics](https://twitter.com/notchristos/status/1258368617785307142?s=10)
+- [Starting a Design System in a Startup](https://uxdesign.cc/starting-a-design-system-in-a-start-up-3359f2d4784b)
 
 ---
 
