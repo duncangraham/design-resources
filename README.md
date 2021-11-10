@@ -16,13 +16,14 @@ Know a resource that isn't listed below? Find something that's out of date or lo
 4. [Workshops](#workshops)
 5. [Research](#research) 
 6. [Accessibility](#accessibility) 
-7. [Design Systems](#design-systems) 
-8. [Leadership](#foundations) 
-9. [Recruiting](#recruiting) 
-10. [Freelancing](#freelancing)
-11. [Assorted Media](#assorted-media) 
-12. [Assets](#assets)
-13. [More Resource Collections](#more-resource-collections)
+7. [Design Systems](#design-systems)
+8. [Collaboration](#collaboration) 
+9. [Leadership](#foundations) 
+10. [Recruiting](#recruiting) 
+11. [Freelancing](#freelancing)
+12. [Assorted Media](#assorted-media) 
+13. [Assets](#assets)
+14. [More Resource Collections](#more-resource-collections)
 
 https://uxtools.co/blog/33-activity-ideas-for-remote-ux-workshops/#zombie-cats
 
@@ -173,6 +174,11 @@ https://uxtools.co/blog/33-activity-ideas-for-remote-ux-workshops/#zombie-cats
 - [Leonardo: an open source contrast-based color generator](https://medium.com/@NateBaldwin/leonardo-an-open-source-contrast-based-color-generator-92d61b6521d2)
 - [Using Figma's Library Analytics](https://twitter.com/notchristos/status/1258368617785307142?s=10)
 
+---
+
+# Collaboration
+
+- [Be your engineering team's favorite designer](https://twitter.com/ridderingand/status/1455549687356813316?s=10)
 
 ---
 
