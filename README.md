@@ -178,7 +178,11 @@ https://uxtools.co/blog/33-activity-ideas-for-remote-ux-workshops/#zombie-cats
 
 # Collaboration
 
+## Engineering
 - [Be your engineering team's favorite designer](https://twitter.com/ridderingand/status/1455549687356813316?s=10)
+
+## Rituals and Traditions
+- [Deliveroo's WAYWO](https://medium.com/deliveroo-design/waywo-because-work-doesnt-have-to-be-polished-to-be-shared-2f9e4b9484ff)
 
 ---
 
