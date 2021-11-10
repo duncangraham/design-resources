@@ -223,6 +223,7 @@ https://uxtools.co/blog/33-activity-ideas-for-remote-ux-workshops/#zombie-cats
 - [Startup Hiring](https://www.notion.so/Startup-Hiring-101-A-Founder-s-Guide-946dad6dd9fd433abdd12338a83e931f) 
 - [Behavioral Interview Questions](https://twitter.com/lilykonings/status/1395507400166166531?s=10)
 - [Reference Calls](http://blog.eladgil.com/2013/03/reference-check-candidates.html)
+- [Recruiting Lessons](https://twitter.com/chanpory/status/1447825133423394818?s=10)
 
 ---
 
