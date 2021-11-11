@@ -95,13 +95,15 @@ https://uxtools.co/blog/33-activity-ideas-for-remote-ux-workshops/#zombie-cats
 - [Never Split the Difference MasterClass](https://www.masterclass.com/classes/chris-voss-teaches-the-art-of-negotiation)
 
 ## Equity Compensation
-- [Compound's Equity guide to fast growing companies](https://withcompound.com/r/equity-guide-to-fast-growing-companies)
+- [Compound's Understanding Startup Offers](https://manual.withcompound.com/manual-company-equity/understanding-startup-offers)
 - [Holloway's Equity Compensation](https://www.holloway.com/g/equity-compensation)
+  - [The original open source version of the Holloway Equty Compensation above](https://github.com/jlevy/og-equity-compensation)
 - [Companies with extended equity windows](https://github.com/holman/extended-exercise-windows)
+  - Reasoning for the list above: [Fuck your 90 day exercise window](https://zachholman.com/posts/fuck-your-90-day-exercise-window/)
 - [Early employees should consider early exercise](https://catwu.substack.com/p/early-employees-should-consider-early)
 - [What I Wish I'd Known About Equity Before Joining A Unicorn](https://gist.github.com/yossorion/4965df74fd6da6cdc280ec57e83a202d)
 - [Understanding Startup Stock Options](https://medium.com/swlh/understanding-startup-stock-options-4bf9cc26089e)
-- [Fuck your 90 day exercise window](https://zachholman.com/posts/fuck-your-90-day-exercise-window/)
+  - [Excerpted version, published by Y Combinator](https://blog.ycombinator.com/understanding-startup-stock-options-berbix/)
 
 ## Salary info
 - [Open Repository of Design Salaries](https://salary.design/)
@@ -269,9 +271,6 @@ https://uxtools.co/blog/33-activity-ideas-for-remote-ux-workshops/#zombie-cats
 ## Instagram
 - [@femkedotdesign](https://www.instagram.com/femkedotdesign/)
 - [@zanderwhitehurst](https://www.instagram.com/zanderwhitehurst/)
-
-## TikTok
-- please help me add stuff here! I know there are amazing content creators I'm missing
 
 ## TikTok
 - please help me add stuff here! I know there are amazing content creators I'm missing
