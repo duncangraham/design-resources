@@ -89,6 +89,7 @@ https://uxtools.co/blog/33-activity-ideas-for-remote-ux-workshops/#zombie-cats
 - [Portfolio review debrief](https://twitter.com/kylietimpani/status/1369525684402462725)
 
 ## Negotiating
+- [Kalzumeus' Salary Negotiation Post. Required reading for all job-seekers](https://www.kalzumeus.com/2012/01/23/salary-negotiation/)
 - [The 10 commandments of salary negotiation](https://www.lennysnewsletter.com/p/negotiating-comp)
 - [Never Split the Difference](https://bookshop.org/books/never-split-the-difference-negotiating-as-if-your-life-depended-on-it/9780062407801). This book is the gold standard of modern negotiation. Learn it and it will pay for itself over and over.
 - [Never Split the Difference Cheat Sheet](https://www.famvestor.com/wp-content/uploads/2019/01/NeverSplitTheDifference-Negotiating-Techniques.pdf)
