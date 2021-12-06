@@ -31,6 +31,9 @@ https://uxtools.co/blog/33-activity-ideas-for-remote-ux-workshops/#zombie-cats
 
 # Foundations
 
+## Good Advice
+- [The blurb @nlevin sends to new designers](https://twitter.com/nlevin/status/1467940558001737728?s=10)
+
 ## Starter Kits
 - [Product Design Starter Kit](https://docs.google.com/document/d/1J8D7u5ZRjbmkIAg3HfnxsgUQCg-VzVd2nbPBW3-Bx7E)
 - [Lambda School's Design Kit](https://designthings.fun/)
