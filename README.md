@@ -20,10 +20,11 @@ Know a resource that isn't listed below? Find something that's out of date or lo
 8. [Collaboration](#collaboration) 
 9. [Leadership](#foundations) 
 10. [Recruiting](#recruiting) 
-11. [Freelancing](#freelancing)
-12. [Assorted Media](#assorted-media) 
-13. [Assets](#assets)
-14. [More Resource Collections](#more-resource-collections)
+11. [Tools](#tools)
+12. [Freelancing](#freelancing)
+13. [Assorted Media](#assorted-media) 
+14. [Assets](#assets)
+15. [More Resource Collections](#more-resource-collections)
 
 https://uxtools.co/blog/33-activity-ideas-for-remote-ux-workshops/#zombie-cats
 
