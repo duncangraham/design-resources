@@ -235,6 +235,7 @@ https://uxtools.co/blog/33-activity-ideas-for-remote-ux-workshops/#zombie-cats
 
 # Tools
 - [Pattern Maker](https://www.magicpattern.design/)
+- [Useful Figma Plugins](https://brianlovin.com/stack/figma)
 
 ---
 
