@@ -91,6 +91,7 @@ https://uxtools.co/blog/33-activity-ideas-for-remote-ux-workshops/#zombie-cats
 
 ## Interviewing
 - [Portfolio review debrief](https://twitter.com/kylietimpani/status/1369525684402462725)
+- [High quality questions every designer should ask](https://twitter.com/tannerc/status/1526916692638670848)
 
 ## Negotiating
 - [Kalzumeus' Salary Negotiation Post. Required reading for all job-seekers](https://www.kalzumeus.com/2012/01/23/salary-negotiation/)
