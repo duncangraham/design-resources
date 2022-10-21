@@ -81,7 +81,8 @@ https://uxtools.co/blog/33-activity-ideas-for-remote-ux-workshops/#zombie-cats
 - [https://www.bestfolios.com/home](https://www.bestfolios.com/home)
 - [Figma case study presentation template](https://www.figma.com/community/file/892528949344124083)
 - [https://www.casestudy.club/pro](https://www.casestudy.club/pro)
-- [https://www.figma.com/file/Wif0eLEhv1BqoOOGC9sseM/Case-Study-Presentation-Template-Community?node-id=0%3A1](Case Study Presentation Template )
+- [Case Study Presentation Template](https://www.figma.com/file/Wif0eLEhv1BqoOOGC9sseM/Case-Study-Presentation-Template-Community?node-id=0%3A1)
+- [Tips from Tanner](https://twitter.com/tannerc/status/1583506648076722189/photo/1)
 
 ### Awesome Case Study Examples
 - [Chekr, Katie Cullinan](https://www.katie-cullinan.com/checkr)
