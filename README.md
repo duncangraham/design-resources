@@ -286,6 +286,7 @@ https://uxtools.co/blog/33-activity-ideas-for-remote-ux-workshops/#zombie-cats
 
 ## Twitter
 - [A great example of how to tell a story of your work](https://twitter.com/tarngerine/status/1108038565705842688)
+- [Blending Modes](https://twitter.com/DanHollick/status/1583080119068807168)
 
 ---
 
