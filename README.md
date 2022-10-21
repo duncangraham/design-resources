@@ -77,7 +77,7 @@ https://uxtools.co/blog/33-activity-ideas-for-remote-ux-workshops/#zombie-cats
 
 ## Portfolios 
 - [How to give a great product design portfolio presentation](https://brianlovin.com/writing/how-to-give-a-great-product-design-portfolio-presentation)
-- https://designthings.fun/Design-portfolios-74d6429649d04a62807d0fca0421d1ff](https://designthings.fun/Design-portfolios-74d6429649d04a62807d0fca0421d1ff)
+- [Portfolio tips](https://www.notion.so/Design-portfolios-74d6429649d04a62807d0fca0421d1ff)
 - [https://www.bestfolios.com/home](https://www.bestfolios.com/home)
 - [Figma case study presentation template](https://www.figma.com/community/file/892528949344124083)
 - [https://www.casestudy.club/pro](https://www.casestudy.club/pro)
