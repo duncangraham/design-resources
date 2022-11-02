@@ -22,9 +22,10 @@ Know a resource that isn't listed below? Find something that's out of date or lo
 10. [Recruiting](#recruiting) 
 11. [Tools](#tools)
 12. [Freelancing](#freelancing)
-13. [Assorted Media](#assorted-media) 
-14. [Assets](#assets)
-15. [More Resource Collections](#more-resource-collections)
+13. [Cross-functional Resources](#discipline-specific)
+14. [Assorted Media](#assorted-media) 
+15. [Assets](#assets)
+16. [More Resource Collections](#more-resource-collections)
 
 https://uxtools.co/blog/33-activity-ideas-for-remote-ux-workshops/#zombie-cats
 
@@ -248,6 +249,16 @@ https://uxtools.co/blog/33-activity-ideas-for-remote-ux-workshops/#zombie-cats
 ## Legal
 - [Open Sourced Service Agreement](https://github.com/mds/sa)
 - 
+
+---
+
+# Discipline Specific
+
+## Product
+- [Frameworks](https://airtable.com/shrTrqgIadVcLwKeD/tblqqAcM25hYtQ9OC)
+
+## Brand
+- [101 Design Rules](https://www.wearecollins.com/ideas/101-design-rules/)
 
 ---
 
