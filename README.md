@@ -117,6 +117,9 @@ https://uxtools.co/blog/33-activity-ideas-for-remote-ux-workshops/#zombie-cats
 - [Open Repository of Design Salaries](https://salary.design/)
 - [Compensation exploration tool](https://www.opencomp.com/)
 
+## Starting at a new company
+- [Your First 30 Days](https://larahogan.me/blog/first-30-days-new-role/)
+
 ## Assorted Links
 - [Land your dream job](https://medium.com/@danshilov/mastering-product-design-interviews-32a7804df89b)
 - [How to get a design job](https://docs.google.com/presentation/d/1yaI5Y_jjd7Cl-VZNfBqKBCqxYKk0SasZBbw1DTUffRg/mobilepresent?slide=id.p)
@@ -135,6 +138,7 @@ https://uxtools.co/blog/33-activity-ideas-for-remote-ux-workshops/#zombie-cats
 - [https://www.adplist.com/](https://www.adplist.com/)
 
 ## Coaching
+- [How to find a good coach](https://grahamduncan.blog/finding-a-good-coach/)
 - [https://www.paolamariselli.com/coaching](https://www.paolamariselli.com/coaching)
 - [https://www.designdept.co/coaching](https://www.designdept.co/coaching)
 - [https://jessejamesgarrett.com/](https://jessejamesgarrett.com/)
@@ -230,6 +234,7 @@ https://uxtools.co/blog/33-activity-ideas-for-remote-ux-workshops/#zombie-cats
 ---
 
 # Recruiting
+- [What's going on here, with this human?](https://grahamduncan.blog/whats-going-on-here/)
 - [Startup Hiring](https://www.notion.so/Startup-Hiring-101-A-Founder-s-Guide-946dad6dd9fd433abdd12338a83e931f) 
 - [Behavioral Interview Questions](https://twitter.com/lilykonings/status/1395507400166166531?s=10)
 - [Reference Calls](http://blog.eladgil.com/2013/03/reference-check-candidates.html)
