@@ -126,6 +126,7 @@ https://uxtools.co/blog/33-activity-ideas-for-remote-ux-workshops/#zombie-cats
 - [How to get a design job](https://docs.google.com/presentation/d/1yaI5Y_jjd7Cl-VZNfBqKBCqxYKk0SasZBbw1DTUffRg/mobilepresent?slide=id.p)
 - [http://cofolios.com/](http://cofolios.com/)
 - [https://uxdesign.cc/how-to-prepare-for-your-facebook-product-design-interview-f80ab9e8f6fb](https://uxdesign.cc/how-to-prepare-for-your-facebook-product-design-interview-f80ab9e8f6fb)
+- [https://uiuxdesignerjobs.com/](https://uiuxdesignerjobs.com/) - Hand-curated UI & UX Designer Jobs
 
 ---
 
