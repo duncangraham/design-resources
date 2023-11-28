@@ -21,7 +21,7 @@ Know a resource that isn't listed below? Find something that's out of date or lo
 9. [Leadership](#foundations) 
 10. [Recruiting](#recruiting) 
 11. [Tools](#tools)
-12. [Brand & Creative](#brand-and-creative)
+12. [Brand and Creative](#brand-and-creative)
 13. [Freelancing](#freelancing)
 14. [Cross-functional Resources](#discipline-specific)
 15. [Assorted Media](#assorted-media) 
