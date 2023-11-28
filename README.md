@@ -21,11 +21,12 @@ Know a resource that isn't listed below? Find something that's out of date or lo
 9. [Leadership](#foundations) 
 10. [Recruiting](#recruiting) 
 11. [Tools](#tools)
-12. [Freelancing](#freelancing)
-13. [Cross-functional Resources](#discipline-specific)
-14. [Assorted Media](#assorted-media) 
-15. [Assets](#assets)
-16. [More Resource Collections](#more-resource-collections)
+12. [Brand & Creative](#brand-and-creative)
+13. [Freelancing](#freelancing)
+14. [Cross-functional Resources](#discipline-specific)
+15. [Assorted Media](#assorted-media) 
+16. [Assets](#assets)
+17. [More Resource Collections](#more-resource-collections)
 
 https://uxtools.co/blog/33-activity-ideas-for-remote-ux-workshops/#zombie-cats
 
@@ -247,6 +248,12 @@ https://uxtools.co/blog/33-activity-ideas-for-remote-ux-workshops/#zombie-cats
 - [Pattern Maker](https://www.magicpattern.design/)
 - [Useful Figma Plugins](https://brianlovin.com/stack/figma)
 - [Untitled: Figma UI Kit](https://www.untitledui.com/)
+
+---
+
+# Brand and Creative
+- [In-context mockups](https://mockup.maison/)
+- [Free Textures](https://twitter.com/studio__aaa/status/172658706640916102)
 
 ---
 
