@@ -254,6 +254,7 @@ https://uxtools.co/blog/33-activity-ideas-for-remote-ux-workshops/#zombie-cats
 # Brand and Creative
 - [In-context mockups](https://mockup.maison/)
 - [Free Textures](https://twitter.com/studio__aaa/status/172658706640916102)
+- [Tyrus: a toolkit from Airbnb for freelance illustrators](https://tyrus.design/index.html)
 
 ---
 
