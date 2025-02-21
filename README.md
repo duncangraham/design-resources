@@ -103,6 +103,7 @@ https://uxtools.co/blog/33-activity-ideas-for-remote-ux-workshops/#zombie-cats
 - [Never Split the Difference](https://bookshop.org/books/never-split-the-difference-negotiating-as-if-your-life-depended-on-it/9780062407801). This book is the gold standard of modern negotiation. Learn it and it will pay for itself over and over.
 - [Never Split the Difference Cheat Sheet](https://www.famvestor.com/wp-content/uploads/2019/01/NeverSplitTheDifference-Negotiating-Techniques.pdf)
 - [Never Split the Difference MasterClass](https://www.masterclass.com/classes/chris-voss-teaches-the-art-of-negotiation)
+- [Everything you need to know about negotiating tech offers](https://nextplayso.substack.com/p/everything-you-need-to-know-about-b86)
 
 ## Equity Compensation
 - [Compound's Understanding Startup Offers](https://manual.withcompound.com/manual-company-equity/understanding-startup-offers)
