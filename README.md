@@ -18,7 +18,7 @@ Know a resource that isn't listed below? Find something that's out of date or lo
 6. [Accessibility](#accessibility) 
 7. [Design Systems](#design-systems)
 8. [Collaboration](#collaboration) 
-9. [Leadership](#management-and-leadership) 
+9. [Leadership](#management--leadership) 
 10. [Recruiting](#recruiting) 
 11. [Tools](#tools)
 12. [Brand and Creative](#brand-and-creative)
