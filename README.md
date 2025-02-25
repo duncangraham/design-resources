@@ -28,8 +28,6 @@ Know a resource that isn't listed below? Find something that's out of date or lo
 16. [Assets](#assets)
 17. [More Resource Collections](#more-resource-collections)
 
-https://uxtools.co/blog/33-activity-ideas-for-remote-ux-workshops/#zombie-cats
-
 ---
 
 # Foundations
