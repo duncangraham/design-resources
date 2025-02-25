@@ -39,7 +39,6 @@ https://uxtools.co/blog/33-activity-ideas-for-remote-ux-workshops/#zombie-cats
 
 ## Starter Kits
 - [Product Design Starter Kit](https://docs.google.com/document/d/1J8D7u5ZRjbmkIAg3HfnxsgUQCg-VzVd2nbPBW3-Bx7E)
-- [Lambda School's Design Kit](https://designthings.fun/)
 
 ## Design Courses
 - [https://shiftnudge.com/](https://shiftnudge.com/)
