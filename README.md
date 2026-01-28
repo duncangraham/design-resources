@@ -131,7 +131,6 @@ Know a resource that isn't listed below? Find something that's out of date or lo
 # Support
 
 ## Affinity Groups
-- [Go Within - The leadership community for womxn in design](https://gowithin.co/) 
 - [Queer Design Club](https://queerdesign.club/)
 
 ## Mentorship
