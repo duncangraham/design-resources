@@ -48,7 +48,6 @@ Know a resource that isn't listed below? Find something that's out of date or lo
 - [Design Career Jumpstart](https://www.designcareerjumpstart.com/)
 
 ## Internships
-- [https://interns.design/](https://interns.design/)
 - [Paid Internships in NYC](https://payinterns.nyc/)
 
 ## Fellowship programs
