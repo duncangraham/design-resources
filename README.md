@@ -54,7 +54,6 @@ Know a resource that isn't listed below? Find something that's out of date or lo
 ## Fellowship programs
 - [UX Collective: a program to help you break into UX design](https://www.designcollective.io/](https://www.designcollective.io/)) 
 - [Design Collective](https://www.designcollective.io/)
-- [Moringa Fellowship](https://www.moringafellowship.com/) (TBD if this continues- it may be winding down)
 
 ## Blogs
 - [How to find new grad roles](https://medium.com/@tkkong/how-to-find-new-grad-product-design-roles-20dfeb13626d)
