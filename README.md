@@ -320,6 +320,7 @@ Know a resource that isn't listed below? Find something that's out of date or lo
 
 # More Resource Collections
 
+- [Founder's Handbook](https://1984.vc/docs/founders-handbook/cap-table-101)
 - [Path Unbound's Resource Collection](https://pathunbound.medium.com/the-most-extensive-design-resources-library-youll-ever-need-in-2021-4151c1df5e8e)
 - [Design Tools](https://www.notion.so/Design-Tools-a616268173e54759acb691261580a230)
 - [Design Resources](https://www.designresourc.es/)
