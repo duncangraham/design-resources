@@ -173,6 +173,7 @@ Know a resource that isn't listed below? Find something that's out of date or lo
 - 🌟[Stark's Library](https://www.getstark.co/library)
 
 - [Contrast: A macOS app for quick access to WCAG color contrast ratios](https://usecontrast.com/)
+- [Calculation Hub Luminance & RGB Brightness Calculator](https://calculation-hub.com/colors/luminance-brightness) - Free HEX, RGB, and HSL color calculations for relative luminance, brightness, and contrast; a color check, not a full accessibility audit.
 - [A 4-step process for testing the accessibility of your designs](https://ux.shopify.com/a-4-step-process-for-testing-the-accessibility-of-your-designs-17bc95bceafe)
 
 ---
