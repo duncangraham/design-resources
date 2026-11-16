@@ -241,6 +241,7 @@ Know a resource that isn't listed below? Find something that's out of date or lo
 
 # Tools
 - [Pattern Maker](https://www.magicpattern.design/)
+- [PixelArtHive](https://pixelarthive.com/) — Convert an image to pixel art with a chosen grid and palette; free and runs in your browser.
 - [Useful Figma Plugins](https://brianlovin.com/stack/figma)
 - [Untitled: Figma UI Kit](https://www.untitledui.com/)
 
